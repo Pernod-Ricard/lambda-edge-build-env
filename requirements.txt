@@ -1,0 +1,4 @@
+yasha
+awscli
+yq
+boto3
