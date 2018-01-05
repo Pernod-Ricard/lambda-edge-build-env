@@ -15,6 +15,7 @@ ENV PACKAGES="\
   groff \
   less \
   jq \
+  openssh-client \
 "
 
 RUN echo \
